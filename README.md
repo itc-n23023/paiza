@@ -2,7 +2,7 @@
 
 ## CodeGirlCollection
 
-![Coding Girl](home/Boxes/Python/images/Codegirs.png)
+![Coding Girl](./images/Codegirs.png)
 
 ## hakkasonn
 
